@@ -1,0 +1,38 @@
+Privacy Policy for Solar Roller by GrenjaminGames
+
+Last Updated: 14 February 2024
+
+
+Introduction
+
+This privacy policy intends to inform you about how we, GrenjaminGames, handle your data in our game, Solar Roller. The game is available to download on the app stores and is designed to respect your privacy and comply with legal requirements.
+
+Data Collection and Use
+
+We do not collect any personal data from our users. Our game can be downloaded and played without any need for registration or provision of personal details.
+
+We use Google AdMob as a mobile ads network to serve banner and rewarded ads in the game. We do not control the data collection practices of Google. For more information about what data Google and their patterns collects and how it is used, please refer to Google’s privacy policy.
+
+Ad Customisation
+
+Google may use user’ data to provide personalised ads to users. If personalised ads are served, users will have the option to control ad personalisation through their device settings as per Google’s guidelines.
+
+Compliance with Advertising Guidelines
+
+We comply with the privacy guidelines set by both the Google Play Store and Apple App Store. This includes obtaining user consent where required, especially under regulations like the GDPR for users in the European Union.
+
+User Consent for Ads
+
+On first launch, users on iOS devices will be presented with an option pertaining to App Tracking Transparency and whether Google will be able to track the user's device across applications. This is for the purpose of providing a better and more personalised ad experience to each user.
+
+COPPA Compliance
+
+Our game is intended for all age groups. We are committed to complying with the Children’s Online Privacy Protection Act (COPPA). Users are advised that Google handles data collection for users under the age of 13 according to its own privacy practices.
+
+International Data Transfers and Compliance
+
+We adhere to international data protection laws to the extent that Google’s data collection practices comply with these laws. For specifics on data handling and transfers, please refer to Google’s privacy policy.
+
+Contact Information
+
+For any privacy-related questions or concerns, please contact us at joshbenjamin13@icloud.com.
