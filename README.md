@@ -13,7 +13,8 @@ You'll learn some things about the planets (and the moon) in our solar system wh
 10 planets, 10 tracks, endless fun.
 What are you waiting for?
 
-Download Solar Roller today!
+Download Solar Roller on the App Store today!
+Play Store coming soon :)
 
 <a href="https://apps.apple.com/us/app/solar-roller/id6475166289?itsct=apps_box_badge&amp;itscg=30200"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1703894400" alt="Download on the App Store" width='180px' height='50px'></a>
 
